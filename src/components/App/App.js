@@ -5,6 +5,7 @@ import './App.css';
 import Header from '../Header/Header';
 import About from '../About/About';
 import Contact from '../Contact/Contact';
+import Input from '../Input/Input';
 import Footer from '../Footer/Footer';
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Header />
       <About />
       <Contact />
+      <Input />
       <Footer />
     </div>
   );
